@@ -1,5 +1,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://pokerpay.ru/index.html</loc>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://pokerpay.ru/pokerok/index.html</loc>
+		<priority>1.0</priority>
 	</url>
 </urlset>
