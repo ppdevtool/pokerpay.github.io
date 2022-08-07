@@ -1,2 +1,5 @@
-User-agent: *
-Disallow: /cgi-bin
+User-agent:*
+Allow: /
+
+Host: pokerpay.ru
+Sitemap: https://pokerpay.ru/sitemap.xml
