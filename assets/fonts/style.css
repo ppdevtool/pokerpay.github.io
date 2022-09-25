@@ -1,10 +1,10 @@
 @font-face {
-   font-family: 'Mont-Bold';
+   font-family: 'GrandisCondensed-Medium';
    font-display: swap;
-   src: url('Mont-Bold/font.ttf');
+   src: url('GrandisCondensed-Medium/font.ttf');
 }
 @font-face {
-   font-family: 'Mont-Regular';
+   font-family: 'GrandisCondensed-Light';
    font-display: swap;
-   src: url('Mont-Regular/font.ttf');
+   src: url('GrandisCondensed-Light/font.ttf');
 }

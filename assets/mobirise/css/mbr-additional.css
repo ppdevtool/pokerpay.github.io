@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Mont-Bold';
+  font-family: 'GrandisCondensed-Medium';
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Mont-Bold';
+  font-family: 'GrandisCondensed-Medium';
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Mont-Regular';
+  font-family: 'GrandisCondensed-Light';
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Mont-Bold';
+  font-family: 'GrandisCondensed-Medium';
   font-size: 2.2rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.75rem;
 }
 .display-7 {
-  font-family: 'Mont-Regular';
+  font-family: 'GrandisCondensed-Light';
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -595,7 +595,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Mont-Regular';
+  font-family: 'GrandisCondensed-Light';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -609,7 +609,7 @@ a:hover {
   border-color: #0071e3 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Mont-Regular';
+  font-family: 'GrandisCondensed-Light';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1132,8 +1132,8 @@ a {
   color: #5b5b60;
 }
 .cid-t8ITSd7ZwG {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/fone-1-2000x1000.png");
 }
 .cid-t8ITSd7ZwG .mbr-fallback-image.disabled {
@@ -1171,8 +1171,8 @@ a {
   color: #5b5b60;
 }
 .cid-t8IUNUHtUe {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/fone-2-2000x1000.png");
 }
 .cid-t8IUNUHtUe .mbr-fallback-image.disabled {
@@ -1207,8 +1207,8 @@ a {
   color: #5b5b60;
 }
 .cid-t8IVrXlo0J {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/fone-3-2000x1000.png");
 }
 .cid-t8IVrXlo0J .mbr-fallback-image.disabled {
@@ -1246,8 +1246,8 @@ a {
   color: #5b5b60;
 }
 .cid-t8IVVPFDby {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/fone-4-2000x1000.png");
 }
 .cid-t8IVVPFDby .mbr-fallback-image.disabled {
@@ -1282,8 +1282,8 @@ a {
   color: #27272a;
 }
 .cid-t8IX2lA5Yu {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-t8IX2lA5Yu .mbr-fallback-image.disabled {
@@ -1855,8 +1855,8 @@ a {
   color: #27272a;
 }
 .cid-tf5GBhfT43 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
 .cid-tf5GBhfT43 .mbr-fallback-image.disabled {
