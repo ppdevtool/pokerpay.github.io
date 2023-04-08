@@ -98,7 +98,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "usedWebp": false
+    "usedWebp": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
